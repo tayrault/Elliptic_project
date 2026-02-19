@@ -1,0 +1,20 @@
+[general]
+email = "your_email@example.com"
+# The email address associated with your Streamlit account
+
+[theme]
+base = "dark"
+# Options: "light" or "dark"
+
+[server]
+headless = false
+# Run the app in headless mode (no browser UI)
+port = 8501
+# The port to run the Streamlit app on
+enableCORS = false
+# Disable CORS for local development
+
+[global]
+# Global settings for the Streamlit app
+maxCachedMessageSize = 1000000
+# Maximum size of cached messages in bytes
