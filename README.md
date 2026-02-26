@@ -1,6 +1,7 @@
 # XGBoost Elliptic Bitcoin Transaction Classifier
 
 A Streamlit web application for detecting illicit Bitcoin transactions using XGBoost machine learning model.
+
 Presentation here: https://github.com/tayrault/Elliptic_project/blob/e7bb1d568f819deeadf5768c1fbb067c75048e99/Elliptic%20Demo%20Day%20060226.pdf
 Video of presentation here: https://www.youtube.com/watch?v=0LFfqkT34tw
 Documentation page here: https://www.notion.so/Elliptic-Predicting-Illegal-Transactions-in-Cryptocurrency-2f445bd140f6810699a0c033bec61bb7?source=copy_link
